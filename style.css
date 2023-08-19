@@ -3,6 +3,12 @@
     background-color: black;
   }
 
+  
+  h1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+  }
+
   .poster {
     width: 50%;
     margin-left: 25%;
@@ -12,17 +18,9 @@
     text-align: center;
   }
 
-  h1 {
-    font-size: 3rem;
-    text-transform: uppercase;
-  }
-
-
-  img {
+  .blackcat {
     border: 5px solid white;
     width: 100%;
   }
 
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Libre+Baskerville&display=swap" rel="stylesheet">
+  
